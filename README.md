@@ -1,1 +1,1 @@
-# Maze-solving-bot-C-
+# Maze-solving-bot-C++
